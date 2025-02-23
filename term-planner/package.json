@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "productName": "my-app",
+  "name": "term-planner",
+  "productName": "term-planner",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": "src/index.js",
